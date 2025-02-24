@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 content added locally
+=======
+text from remote
+>>>>>>> 09b70fb5b7837ad9ac612fde27a79a6c9d4a16bc
